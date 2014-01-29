@@ -1,0 +1,38 @@
+/* CSS Document */
+
+html {
+    font-family: Helvetica, Avenir, sans-serif;
+    border-top: 8px solid #003333;
+    border-bottom: 8px solid #003333;
+}
+
+body {
+    background-color:#99cccc;
+}
+
+h1 {
+    font-family: Helvetica, Avenir, sans-serif;
+    font-size: 36px;
+}
+
+p,
+li {
+    font-size: 14px;
+    line-height: 1.5rem;
+}
+
+hr {
+    border: solid 1px #339999;
+}
+
+ul {background-color: #ccffff;
+}
+
+li {
+    font-weight: bold;
+    color: #003333;
+}
+
+h1 {
+    text-shadow: #999 2px 2px;
+}
